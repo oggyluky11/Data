@@ -1,0 +1,773 @@
+location,url_tail,walk_score,transit_score,bike_score
+"11238, Clinton Hill, NY",11238-clinton-hill-ny,96,100,90
+"10029, East Harlem, NY",10029-east-harlem-ny,99,100,88
+"10016, Murray Hill, NY",10016-murray-hill-ny,99,100,85
+"10016, Murray Hill, NY",10016-murray-hill-ny,99,100,85
+"11216, Bedford-Stuyvesant, NY",11216-bedford-stuyvesant-ny,99,100,86
+"10019, Hell's Kitchen, NY",10019-hell-s-kitchen-ny,100,100,92
+"10025, Upper West Side, NY",10025-upper-west-side-ny,100,100,88
+"10009, East Village, NY",10009-east-village-ny,98,100,98
+"10002, Chinatown, NY",10002-chinatown-ny,100,100,94
+"10036, Hell's Kitchen, NY",10036-hell-s-kitchen-ny,99,100,92
+"10036, Hell's Kitchen, NY",10036-hell-s-kitchen-ny,99,100,92
+"11215, South Slope, NY",11215-south-slope-ny,97,100,86
+"10014, West Village, NY",10014-west-village-ny,98,100,94
+"10014, West Village, NY",10014-west-village-ny,98,100,94
+"11211, Williamsburg, NY",11211-williamsburg-ny,99,100,91
+"11205, Fort Greene, NY",11205-fort-greene-ny,95,91,95
+"10011, Chelsea, NY",10011-chelsea-ny,85,100,84
+"10011, Chelsea, NY",10011-chelsea-ny,85,100,84
+"11216, Crown Heights, NY",11216-crown-heights-ny,99,100,86
+"11217, Park Slope, NY",11217-park-slope-ny,99,100,93
+"11218, Windsor Terrace, NY",11218-windsor-terrace-ny,85,95,75
+"10003, East Village, NY",10003-east-village-ny,100,100,93
+"10031, Harlem, NY",10031-harlem-ny,99,100,80
+"10027, Harlem, NY",10027-harlem-ny,91,100,60
+"11222, Greenpoint, NY",11222-greenpoint-ny,99,76,96
+"11238, Bedford-Stuyvesant, NY",11238-bedford-stuyvesant-ny,96,100,90
+"11237, Bushwick, NY",11237-bushwick-ny,97,97,91
+"10002, Lower East Side, NY",10002-lower-east-side-ny,97,100,94
+"10024, Upper West Side, NY",10024-upper-west-side-ny,100,100,86
+"10024, Upper West Side, NY",10024-upper-west-side-ny,100,100,86
+"11225, Prospect-Lefferts Gardens, NY",11225-prospect-lefferts-gardens-ny,92,100,84
+"11101, Long Island City, NY",11101-long-island-city-ny,93,100,82
+"11221, Bedford-Stuyvesant, NY",11221-bedford-stuyvesant-ny,96,92,71
+"11206, Williamsburg, NY",11206-williamsburg-ny,98,100,86
+"10010, Kips Bay, NY",10010-kips-bay-ny,98,100,89
+"10016, Kips Bay, NY",10016-kips-bay-ny,100,100,80
+"10016, Kips Bay, NY",10016-kips-bay-ny,100,100,80
+"10018, Hell's Kitchen, NY",10018-hell-s-kitchen-ny,99,100,90
+"10002, SoHo, NY",10002-soho-ny,99,100,96
+"11249, Williamsburg, NY",11249-williamsburg-ny,98,98,95
+"11249, Williamsburg, NY",11249-williamsburg-ny,98,98,95
+"10001, Chelsea, NY",10001-chelsea-ny,100,100,96
+"10162, Upper East Side, NY",10162-upper-east-side-ny,97,100,84
+"11231, Red Hook, NY",11231-red-hook-ny,93,67,98
+"11238, Prospect Heights, NY",11238-prospect-heights-ny,96,100,90
+"11205, Clinton Hill, NY",11205-clinton-hill-ny,95,91,95
+"11215, Park Slope, NY",11215-park-slope-ny,97,100,86
+"10035, East Harlem, NY",10035-east-harlem-ny,11,83,56
+"10032, Washington Heights, NY",10032-washington-heights-ny,90,100,51
+"11377, Woodside, NY",11377-woodside-ny,95,100,73
+"10014, Chelsea, NY",10014-chelsea-ny,98,100,94
+"11226, Flatbush, NY",11226-flatbush-ny,96,100,73
+"11201, Brooklyn Heights, NY",11201-brooklyn-heights-ny,97,100,89
+"11206, Bushwick, NY",11206-bushwick-ny,98,100,86
+"11217, Prospect Heights, NY",11217-prospect-heights-ny,99,100,93
+"11233, Bedford-Stuyvesant, NY",11233-bedford-stuyvesant-ny,91,100,65
+"11231, Carroll Gardens, NY",11231-carroll-gardens-ny,96,93,92
+"11217, Gowanus, NY",11217-gowanus-ny,99,100,93
+"10023, Upper West Side, NY",10023-upper-west-side-ny,100,100,87
+"10023, Upper West Side, NY",10023-upper-west-side-ny,100,100,87
+"10128, Upper East Side, NY",10128-upper-east-side-ny,100,100,71
+"11234, Flatlands, NY",11234-flatlands-ny,90,79,57
+"11201, Cobble Hill, NY",11201-cobble-hill-ny,98,100,97
+"11367, Flushing, NY",11367-flushing-ny,90,68,71
+"10028, Upper East Side, NY",10028-upper-east-side-ny,100,100,85
+"10028, Upper East Side, NY",10028-upper-east-side-ny,100,100,85
+"11217, Boerum Hill, NY",11217-boerum-hill-ny,99,100,93
+"11104, Sunnyside, NY",11104-sunnyside-ny,98,100,85
+"11201, DUMBO, NY",11201-dumbo-ny,98,100,90
+"10065, Upper East Side, NY",10065-upper-east-side-ny,100,100,83
+"11215, Gowanus, NY",11215-gowanus-ny,97,100,86
+"10301, St. George, NY",10301-st--george-ny,87,78,51
+"10452, Highbridge, NY",10452-highbridge-ny,98,100,78
+"10006, Financial District, NY",10006-financial-district-ny,99,100,83
+"10003, NoHo, NY",10003-noho-ny,100,100,93
+"10039, Harlem, NY",10039-harlem-ny,92,100,84
+"11217, Fort Greene, NY",11217-fort-greene-ny,99,100,93
+"11385, Ridgewood, NY",11385-ridgewood-ny,93,85,69
+"11385, Ridgewood, NY",11385-ridgewood-ny,93,85,69
+"10025, Morningside Heights, NY",10025-morningside-heights-ny,100,100,88
+"10021, Upper East Side, NY",10021-upper-east-side-ny,100,100,84
+"11434, Jamaica, NY",11434-jamaica-ny,76,74,51
+"11206, Bedford-Stuyvesant, NY",11206-bedford-stuyvesant-ny,98,100,86
+"11379, Middle Village, NY",11379-middle-village-ny,80,67,58
+"11105, Ditmars Steinway, NY",11105-ditmars-steinway-ny,92,76,73
+"10010, Flatiron District, NY",10010-flatiron-district-ny,100,100,91
+"11215, Windsor Terrace, NY",11215-windsor-terrace-ny,85,95,75
+"10044, Roosevelt Island, NY",10044-roosevelt-island-ny,81,100,76
+"10022, Midtown, NY",10022-midtown-ny,99,100,82
+"10013, SoHo, NY",10013-soho-ny,99,100,96
+"10027, East Harlem, NY",10027-east-harlem-ny,91,100,60
+"10013, Little Italy, NY",10013-little-italy-ny,100,100,92
+"10026, Harlem, NY",10026-harlem-ny,99,100,84
+"11221, Bushwick, NY",11221-bushwick-ny,96,92,71
+"10301, Tompkinsville, NY",10301-tompkinsville-ny,78,70,33
+", Upper West Side, NY",#NAME?,100,100,86
+"10010, Gramercy, NY",10010-gramercy-ny,100,100,90
+"11103, Astoria, NY",11103-astoria-ny,94,96,67
+"11103, Astoria, NY",11103-astoria-ny,94,96,67
+"11218, Kensington, NY",11218-kensington-ny,93,96,88
+"10475, Eastchester, NY",10475-eastchester-ny,60,NA,65
+"10034, Inwood, NY",10034-inwood-ny,85,96,49
+"10026, Morningside Heights, NY",10026-morningside-heights-ny,99,100,84
+"10002, Little Italy, NY",10002-little-italy-ny,100,100,92
+"10468, Kingsbridge, NY",10468-kingsbridge-ny,95,NA,69
+", Williamsburg, NY",#NAME?,99,100,88
+"11102, Astoria, NY",11102-astoria-ny,91,77,87
+"10038, Two Bridges, NY",10038-two-bridges-ny,99,100,83
+"11205, Bedford-Stuyvesant, NY",11205-bedford-stuyvesant-ny,95,91,95
+"10033, Washington Heights, NY",10033-washington-heights-ny,34,87,41
+"11427, Queens Village, NY",11427-queens-village-ny,73,73,29
+"11693, Rockaway Beach, NY",11693-rockaway-beach-ny,83,82,75
+"10001, Midtown, NY",10001-midtown-ny,97,100,71
+"11238, Crown Heights, NY",11238-crown-heights-ny,96,100,90
+"10012, East Village, NY",10012-east-village-ny,99,100,96
+"11375, Forest Hills, NY",11375-forest-hills-ny,97,100,56
+"11226, East Flatbush, NY",11226-east-flatbush-ny,96,100,73
+"10012, Nolita, NY",10012-nolita-ny,99,100,92
+"10012, Greenwich Village, NY",10012-greenwich-village-ny,99,100,96
+"10470, Woodlawn, NY",10470-woodlawn-ny,86,82,56
+"11377, Sunnyside, NY",11377-sunnyside-ny,95,100,73
+"10012, SoHo, NY",10012-soho-ny,99,100,96
+"10453, University Heights, NY",10453-university-heights-ny,92,NA,72
+"10003, Gramercy, NY",10003-gramercy-ny,100,100,90
+"11101, Astoria, NY",11101-astoria-ny,93,100,82
+"10012, West Village, NY",10012-west-village-ny,99,100,96
+"10469, Allerton, NY",10469-allerton-ny,93,NA,69
+"11208, East New York, NY",11208-east-new-york-ny,94,97,61
+"11225, Crown Heights, NY",11225-crown-heights-ny,94,100,81
+"10023, Hell's Kitchen, NY",10023-hell-s-kitchen-ny,100,100,87
+"11226, Prospect-Lefferts Gardens, NY",11226-prospect-lefferts-gardens-ny,92,100,84
+"10026, Hell's Kitchen, NY",10026-hell-s-kitchen-ny,100,100,91
+"10032, Harlem, NY",10032-harlem-ny,90,100,51
+"10038, Chinatown, NY",10038-chinatown-ny,99,100,83
+"10036, Theater District, NY",10036-theater-district-ny,97,100,92
+"11207, Bushwick, NY",11207-bushwick-ny,90,100,83
+"11222, Williamsburg, NY",11222-williamsburg-ny,99,76,96
+"10451, Concourse Village, NY",10451-concourse-village-ny,96,100,61
+"11238, Fort Greene, NY",11238-fort-greene-ny,96,100,90
+"11235, Sheepshead Bay, NY",11235-sheepshead-bay-ny,85,77,62
+"11209, Fort Hamilton, NY",11209-fort-hamilton-ny,44,64,63
+"11204, Bensonhurst, NY",11204-bensonhurst-ny,92,94,55
+"10038, Tribeca, NY",10038-tribeca-ny,99,100,83
+"10010, Midtown, NY",10010-midtown-ny,98,100,89
+"10305, Shore Acres, NY",10305-shore-acres-ny,72,69,51
+"10013, Chinatown, NY",10013-chinatown-ny,100,100,94
+"11232, Sunset Park, NY",11232-sunset-park-ny,92,98,72
+"10451, Concourse, NY",10451-concourse-ny,96,100,61
+"10011, West Village, NY",10011-west-village-ny,99,100,91
+"10017, Midtown, NY",10017-midtown-ny,100,100,80
+"11373, Elmhurst, NY",11373-elmhurst-ny,98,NA,78
+"11224, Brighton Beach, NY",11224-brighton-beach-ny,97,85,67
+"11372, Jackson Heights, NY",11372-jackson-heights-ny,95,98,84
+"10002, Nolita, NY",10002-nolita-ny,99,100,92
+"11207, Cypress Hills, NY",11207-cypress-hills-ny,90,100,83
+"11412, St. Albans, NY",11412-st--albans-ny,80,65,54
+"10030, Harlem, NY",10030-harlem-ny,97,100,70
+"10305, Arrochar, NY",10305-arrochar-ny,83,67,51
+"10075, Upper East Side, NY",10075-upper-east-side-ny,99,100,85
+"10075, Upper East Side, NY",10075-upper-east-side-ny,99,100,85
+"10004, Financial District, NY",10004-financial-district-ny,99,100,79
+"11203, East Flatbush, NY",11203-east-flatbush-ny,88,77,53
+"10027, Morningside Heights, NY",10027-morningside-heights-ny,91,100,60
+"10019, Theater District, NY",10019-theater-district-ny,97,100,92
+"10022, Upper East Side, NY",10022-upper-east-side-ny,99,100,82
+"11374, Rego Park, NY",11374-rego-park-ny,88,99,61
+"10466, Wakefield, NY",10466-wakefield-ny,83,78,75
+"11226, Kensington, NY",11226-kensington-ny,96,100,73
+"11213, Crown Heights, NY",11213-crown-heights-ny,94,100,91
+", Bushwick, NY",#NAME?,95,100,87
+"10003, Greenwich Village, NY",10003-greenwich-village-ny,100,100,93
+"10040, Washington Heights, NY",10040-washington-heights-ny,78,88,52
+"11385, Bushwick, NY",11385-bushwick-ny,93,85,69
+"11215, Sunset Park, NY",11215-sunset-park-ny,97,100,86
+"11105, Astoria, NY",11105-astoria-ny,92,76,73
+"11231, Cobble Hill, NY",11231-cobble-hill-ny,98,100,97
+"11201, Fort Greene, NY",11201-fort-greene-ny,96,100,80
+"11201, Carroll Gardens, NY",11201-carroll-gardens-ny,96,93,92
+"11211, Greenpoint, NY",11211-greenpoint-ny,99,100,91
+"11106, Astoria, NY",11106-astoria-ny,98,100,77
+"11207, East New York, NY",11207-east-new-york-ny,90,100,83
+"11218, Flatbush, NY",11218-flatbush-ny,93,94,76
+"10304, Clifton, NY",10304-clifton-ny,79,67,63
+"11220, Bay Ridge, NY",11220-bay-ridge-ny,96,98,77
+"10016, Midtown, NY",10016-midtown-ny,100,100,80
+"11230, Flatbush, NY",11230-flatbush-ny,96,90,77
+"11210, East Flatbush, NY",11210-east-flatbush-ny,95,99,62
+"11220, Sunset Park, NY",11220-sunset-park-ny,96,98,77
+"11378, Maspeth, NY",11378-maspeth-ny,85,63,52
+"10303, Graniteville, NY",10303-graniteville-ny,79,63,52
+"11229, Sheepshead Bay, NY",11229-sheepshead-bay-ny,94,76,69
+"10463, Spuyten Duyvil, NY",10463-spuyten-duyvil-ny,75,NA,40
+"10304, Stapleton, NY",10304-stapleton-ny,88,70,67
+"10019, Midtown, NY",10019-midtown-ny,97,100,84
+"11435, Briarwood, NY",11435-briarwood-ny,79,100,61
+"11416, Ozone Park, NY",11416-ozone-park-ny,92,85,56
+"11231, Columbia St, NY",11231-columbia-st-ny,93,77,92
+"10453, Morris Heights, NY",10453-morris-heights-ny,92,NA,78
+"11201, Boerum Hill, NY",11201-boerum-hill-ny,97,100,95
+"11235, Brighton Beach, NY",11235-brighton-beach-ny,97,85,67
+"11201, Vinegar Hill, NY",11201-vinegar-hill-ny,93,100,88
+"10454, Mott Haven, NY",10454-mott-haven-ny,85,86,80
+"10455, Longwood, NY",10455-longwood-ny,96,100,78
+"10451, Harlem, NY",10451-harlem-ny,96,100,61
+"10280, Battery Park City, NY",10280-battery-park-city-ny,99,100,86
+"11226, Crown Heights, NY",11226-crown-heights-ny,93,100,85
+"10013, Tribeca, NY",10013-tribeca-ny,97,100,90
+"10002, Two Bridges, NY",10002-two-bridges-ny,97,100,90
+"10009, Lower East Side, NY",10009-lower-east-side-ny,98,100,98
+"10038, Civic Center, NY",10038-civic-center-ny,99,100,92
+"11361, Bayside, NY",11361-bayside-ny,90,69,53
+"11372, East Elmhurst, NY",11372-east-elmhurst-ny,95,98,84
+"11231, Gowanus, NY",11231-gowanus-ny,96,100,92
+"10314, New Springville, NY",10314-new-springville-ny,67,61,51
+", Chelsea, NY",#NAME?,97,100,95
+"10452, Concourse, NY",10452-concourse-ny,94,100,69
+"10037, Harlem, NY",10037-harlem-ny,92,100,78
+"10016, Flatiron District, NY",10016-flatiron-district-ny,100,100,91
+"10014, Greenwich Village, NY",10014-greenwich-village-ny,98,100,94
+"11355, Flushing, NY",11355-flushing-ny,89,82,75
+"10011, Greenwich Village, NY",10011-greenwich-village-ny,85,100,84
+"11692, Arverne, NY",11692-arverne-ny,78,74,59
+"11223, Gravesend, NY",11223-gravesend-ny,92,98,70
+", Tribeca, NY",#NAME?,100,100,92
+"10022, Murray Hill, NY",10022-murray-hill-ny,99,100,82
+"10282, Tribeca, NY",10282-tribeca-ny,99,100,89
+"11208, Cypress Hills, NY",11208-cypress-hills-ny,94,97,61
+"10307, Tottenville, NY",10307-tottenville-ny,77,59,49
+"10304, Tompkinsville, NY",10304-tompkinsville-ny,78,70,33
+"10012, NoHo, NY",10012-noho-ny,100,100,93
+"11201, Columbia St, NY",11201-columbia-st-ny,91,100,90
+"10040, Inwood, NY",10040-inwood-ny,78,88,52
+"11236, Canarsie, NY",11236-canarsie-ny,79,78,51
+"11377, Maspeth, NY",11377-maspeth-ny,95,100,73
+"10303, Mariners Harbor, NY",10303-mariners-harbor-ny,59,55,43
+"10036, Chelsea, NY",10036-chelsea-ny,99,100,92
+"10025, Harlem, NY",10025-harlem-ny,100,100,88
+"10304, Concord, NY",10304-concord-ny,75,74,47
+"10467, Allerton, NY",10467-allerton-ny,93,NA,69
+"10011, Flatiron District, NY",10011-flatiron-district-ny,100,100,91
+"11205, Williamsburg, NY",11205-williamsburg-ny,95,91,95
+"11219, Borough Park, NY",11219-borough-park-ny,93,88,62
+"10065, Canarsie, NY",10065-canarsie-ny,100,100,84
+"10035, Harlem, NY",10035-harlem-ny,11,83,56
+"11237, Williamsburg, NY",11237-williamsburg-ny,90,81,83
+"11358, Flushing, NY",11358-flushing-ny,88,73,60
+", Astoria, NY",#NAME?,96,100,79
+"11106, Long Island City, NY",11106-long-island-city-ny,98,100,77
+"10001, Hell's Kitchen, NY",10001-hell-s-kitchen-ny,100,100,92
+"11201, Downtown Brooklyn, NY",11201-downtown-brooklyn-ny,96,100,90
+"10069, Upper West Side, NY",10069-upper-west-side-ny,77,93,79
+"10463, Fieldston, NY",10463-fieldston-ny,56,80,49
+"10023, Lower East Side, NY",10023-lower-east-side-ny,100,100,87
+"11415, Kew Gardens, NY",11415-kew-gardens-ny,95,100,60
+"10010, Chelsea, NY",10010-chelsea-ny,98,100,89
+"10003, Chelsea, NY",10003-chelsea-ny,100,100,93
+"11230, Midwood, NY",11230-midwood-ny,96,90,77
+"11356, College Point, NY",11356-college-point-ny,79,57,53
+"10452, Mount Eden, NY",10452-mount-eden-ny,97,100,74
+"11214, Bensonhurst, NY",11214-bensonhurst-ny,98,82,58
+"11432, Briarwood, NY",11432-briarwood-ny,79,100,61
+"10038, Financial District, NY",10038-financial-district-ny,99,100,83
+"10028, Upper West Side, NY",10028-upper-west-side-ny,100,100,85
+", Briarwood, NY",#NAME?,79,100,61
+"10464, City Island, NY",10464-city-island-ny,60,NA,47
+"11209, Bay Ridge, NY",11209-bay-ridge-ny,99,85,75
+"11370, East Elmhurst, NY",11370-east-elmhurst-ny,81,82,83
+"10037, East Harlem, NY",10037-east-harlem-ny,92,100,78
+", Bedford-Stuyvesant, NY",#NAME?,92,99,77
+"11217, Carroll Gardens, NY",11217-carroll-gardens-ny,99,100,93
+"11385, Glendale, NY",11385-glendale-ny,93,85,69
+", Long Island City, NY",#NAME?,97,100,83
+"11370, Ditmars Steinway, NY",11370-ditmars-steinway-ny,81,82,83
+"10030, Washington Heights, NY",10030-washington-heights-ny,97,100,70
+"11230, Kensington, NY",11230-kensington-ny,96,90,77
+"10454, Port Morris, NY",10454-port-morris-ny,85,86,80
+"11233, Crown Heights, NY",11233-crown-heights-ny,91,100,65
+"11418, Richmond Hill, NY",11418-richmond-hill-ny,89,84,53
+"11429, Queens Village, NY",11429-queens-village-ny,79,70,59
+"10455, Mott Haven, NY",10455-mott-haven-ny,92,NA,73
+"10005, Financial District, NY",10005-financial-district-ny,100,100,82
+"10005, Financial District, NY",10005-financial-district-ny,100,100,82
+"10013, Greenwich Village, NY",10013-greenwich-village-ny,97,100,90
+"10002, East Village, NY",10002-east-village-ny,97,100,94
+"10002, East Village, NY",10002-east-village-ny,97,100,94
+"11422, Queens Village, NY",11422-queens-village-ny,84,67,65
+"10019, Upper West Side, NY",10019-upper-west-side-ny,97,100,84
+"11213, Bedford-Stuyvesant, NY",11213-bedford-stuyvesant-ny,94,100,91
+"11210, Flatbush, NY",11210-flatbush-ny,95,99,62
+"11434, St. Albans, NY",11434-st--albans-ny,76,74,51
+", West Village, NY",#NAME?,100,100,95
+", Midtown, NY",#NAME?,99,100,79
+", Greenpoint, NY",#NAME?,94,69,84
+"10014, SoHo, NY",10014-soho-ny,99,100,96
+"10467, Williamsbridge, NY",10467-williamsbridge-ny,82,81,69
+"10473, Soundview, NY",10473-soundview-ny,77,62,60
+"11421, Woodhaven, NY",11421-woodhaven-ny,92,75,44
+"10017, Murray Hill, NY",10017-murray-hill-ny,100,100,80
+"10475, Co-op City, NY",10475-co-op-city-ny,63,NA,56
+"11233, Bushwick, NY",11233-bushwick-ny,91,100,65
+"10009, Stuyvesant Town, NY",10009-stuyvesant-town-ny,98,100,96
+"11201, Gowanus, NY",11201-gowanus-ny,96,100,87
+"10003, Kips Bay, NY",10003-kips-bay-ny,100,100,93
+"10460, Parkchester, NY",10460-parkchester-ny,92,87,62
+"10026, East Harlem, NY",10026-east-harlem-ny,99,100,84
+", Fort Greene, NY",#NAME?,96,100,80
+"11232, Borough Park, NY",11232-borough-park-ny,92,98,72
+"10471, North Riverdale, NY",10471-north-riverdale-ny,88,69,39
+", Clinton Hill, NY",#NAME?,91,100,98
+", Crown Heights, NY",#NAME?,96,100,89
+"11220, Dyker Heights, NY",11220-dyker-heights-ny,96,98,77
+"10462, Bronxdale, NY",10462-bronxdale-ny,95,93,75
+", East Village, NY",#NAME?,99,100,99
+"10459, Longwood, NY",10459-longwood-ny,95,100,81
+"11217, Cobble Hill, NY",11217-cobble-hill-ny,96,100,92
+"11220, Borough Park, NY",11220-borough-park-ny,96,98,77
+"10005, Battery Park City, NY",10005-battery-park-city-ny,95,100,81
+", Richmond Hill, NY",#NAME?,86,91,59
+"10065, West Village, NY",10065-west-village-ny,100,100,83
+"10012, Lower East Side, NY",10012-lower-east-side-ny,99,100,96
+"11224, Sea Gate, NY",11224-sea-gate-ny,46,46,41
+"11432, Jamaica, NY",11432-jamaica-ny,87,100,51
+"11215, Carroll Gardens, NY",11215-carroll-gardens-ny,96,93,92
+"10463, Riverdale, NY",10463-riverdale-ny,95,90,50
+", Chinatown, NY",#NAME?,100,100,94
+"10013, Civic Center, NY",10013-civic-center-ny,99,100,92
+"11417, Ozone Park, NY",11417-ozone-park-ny,87,81,51
+"10463, Kingsbridge, NY",10463-kingsbridge-ny,95,90,50
+"10031, East Harlem, NY",10031-east-harlem-ny,99,100,80
+"11360, Bay Terrace, NY",11360-bay-terrace-ny,77,56,54
+"11237, Ridgewood, NY",11237-ridgewood-ny,97,97,91
+"11210, Flatlands, NY",11210-flatlands-ny,95,99,62
+"10004, Battery Park City, NY",10004-battery-park-city-ny,99,100,86
+"10004, Battery Park City, NY",10004-battery-park-city-ny,99,100,86
+"10467, Norwood, NY",10467-norwood-ny,95,100,67
+"11249, Williamsburg, NY",11249-williamsburg-ny,98,98,95
+"11249, Williamsburg, NY",11249-williamsburg-ny,98,98,95
+"10305, Concord, NY",10305-concord-ny,75,74,47
+"11225, Flatbush, NY",11225-flatbush-ny,94,100,81
+", Claremont Village, NY",#NAME?,92,NA,74
+"11104, Long Island City, NY",11104-long-island-city-ny,98,100,85
+"11109, Long Island City, NY",11109-long-island-city-ny,94,100,81
+"11357, Whitestone, NY",11357-whitestone-ny,86,60,45
+"10458, Fordham, NY",10458-fordham-ny,98,100,67
+"10017, Upper East Side, NY",10017-upper-east-side-ny,100,100,81
+"10128, East Harlem, NY",10128-east-harlem-ny,100,100,71
+", Sunnyside, NY",#NAME?,100,95,86
+"11369, Jackson Heights, NY",11369-jackson-heights-ny,79,74,83
+"11212, East Flatbush, NY",11212-east-flatbush-ny,87,100,76
+"11211, Bedford-Stuyvesant, NY",11211-bedford-stuyvesant-ny,93,96,66
+"11219, Bensonhurst, NY",11219-bensonhurst-ny,93,88,62
+"10452, Concourse Village, NY",10452-concourse-village-ny,98,100,74
+", Nolita, NY",#NAME?,100,100,92
+"11204, Borough Park, NY",11204-borough-park-ny,92,94,55
+"11354, Flushing, NY",11354-flushing-ny,93,91,65
+"10469, Williamsbridge, NY",10469-williamsbridge-ny,91,80,59
+"10471, Fieldston, NY",10471-fieldston-ny,56,80,49
+", Hell's Kitchen, NY",#NAME?,100,100,92
+", Sunset Park, NY",#NAME?,98,96,76
+"10035, Upper East Side, NY",10035-upper-east-side-ny,11,83,56
+"10013, Nolita, NY",10013-nolita-ny,100,100,92
+"11233, Cypress Hills, NY",11233-cypress-hills-ny,91,100,65
+"10451, Mott Haven, NY",10451-mott-haven-ny,96,100,61
+", Washington Heights, NY",#NAME?,99,100,82
+"11212, Brownsville, NY",11212-brownsville-ny,87,100,76
+"10312, Eltingville, NY",10312-eltingville-ny,64,65,50
+", East Flatbush, NY",#NAME?,87,68,63
+"11213, Brownsville, NY",11213-brownsville-ny,94,100,91
+"11211, Bushwick, NY",11211-bushwick-ny,99,100,91
+"11432, Jamaica Estates, NY",11432-jamaica-estates-ny,87,100,51
+"11205, Navy Yard, NY",11205-navy-yard-ny,47,74,89
+"11233, Brownsville, NY",11233-brownsville-ny,91,100,65
+"10453, Mount Hope, NY",10453-mount-hope-ny,92,NA,71
+"11369, East Elmhurst, NY",11369-east-elmhurst-ny,79,74,78
+", Theater District, NY",#NAME?,97,100,92
+"10473, Clason Point, NY",10473-clason-point-ny,73,NA,75
+"10301, Stapleton, NY",10301-stapleton-ny,88,70,67
+"10019, Roosevelt Island, NY",10019-roosevelt-island-ny,81,100,76
+"10306, Lighthouse Hill, NY",10306-lighthouse-hill-ny,18,45,11
+"10456, Concourse Village, NY",10456-concourse-village-ny,90,NA,77
+", Civic Center, NY",#NAME?,99,100,92
+"10472, Unionport, NY",10472-unionport-ny,93,89,53
+"11413, Springfield Gardens, NY",11413-springfield-gardens-ny,76,67,51
+"11413, Springfield Gardens, NY",11413-springfield-gardens-ny,76,67,51
+"10458, Norwood, NY",10458-norwood-ny,93,100,55
+"11102, Ditmars Steinway, NY",11102-ditmars-steinway-ny,91,77,87
+"11365, Flushing, NY",11365-flushing-ny,80,71,74
+"11436, Jamaica, NY",11436-jamaica-ny,78,62,54
+"11414, Howard Beach, NY",11414-howard-beach-ny,77,66,75
+"11236, East Flatbush, NY",11236-east-flatbush-ny,79,78,51
+"10009, Gramercy, NY",10009-gramercy-ny,100,100,90
+"11694, Belle Harbor, NY",11694-belle-harbor-ny,62,56,62
+"11367, Kew Gardens Hills, NY",11367-kew-gardens-hills-ny,85,72,70
+"10460, Van Nest, NY",10460-van-nest-ny,79,95,73
+"10031, Washington Heights, NY",10031-washington-heights-ny,99,100,80
+"10018, Midtown, NY",10018-midtown-ny,99,100,90
+"10018, Midtown, NY",10018-midtown-ny,99,100,90
+", Flushing, NY",#NAME?,96,100,56
+", Bellerose, NY",#NAME?,80,NA,56
+"10001, Flatiron District, NY",10001-flatiron-district-ny,100,100,91
+"11366, Fresh Meadows, NY",11366-fresh-meadows-ny,85,69,57
+", Woodhaven, NY",#NAME?,92,76,55
+"10039, Flushing, NY",10039-flushing-ny,92,100,84
+"11210, Midwood, NY",11210-midwood-ny,95,99,62
+"10457, Mount Hope, NY",10457-mount-hope-ny,90,100,75
+"10461, Morris Park, NY",10461-morris-park-ny,86,NA,84
+"10310, West Brighton, NY",10310-west-brighton-ny,86,63,60
+"10012, Chinatown, NY",10012-chinatown-ny,100,100,93
+"11365, Forest Hills, NY",11365-forest-hills-ny,87,66,69
+", Harlem, NY",#NAME?,99,100,75
+"11691, Far Rockaway, NY",11691-far-rockaway-ny,78,74,60
+"11420, South Ozone Park, NY",11420-south-ozone-park-ny,88,63,52
+"10460, Tremont, NY",10460-tremont-ny,93,96,68
+"10038, Upper West Side, NY",10038-upper-west-side-ny,100,100,86
+", East Harlem, NY",#NAME?,97,100,82
+"11368, Corona, NY",11368-corona-ny,92,84,77
+"11691, Bayswater, NY",11691-bayswater-ny,51,64,49
+"11434, Springfield Gardens, NY",11434-springfield-gardens-ny,78,66,51
+"11237, Bedford-Stuyvesant, NY",11237-bedford-stuyvesant-ny,97,97,91
+", Lower East Side, NY",#NAME?,97,100,94
+"10456, Longwood, NY",10456-longwood-ny,90,NA,77
+"10035, East Village, NY",10035-east-village-ny,11,83,56
+", SoHo, NY",#NAME?,100,100,93
+"11235, Manhattan Beach, NY",11235-manhattan-beach-ny,46,51,49
+"10007, Tribeca, NY",10007-tribeca-ny,99,100,90
+"10007, Tribeca, NY",10007-tribeca-ny,99,100,90
+"11230, Gravesend, NY",11230-gravesend-ny,96,90,77
+"10007, Financial District, NY",10007-financial-district-ny,99,100,90
+"11223, Sheepshead Bay, NY",11223-sheepshead-bay-ny,92,98,70
+", Park Slope, NY",#NAME?,97,100,86
+"11419, Ozone Park, NY",11419-ozone-park-ny,91,88,51
+"10019, Lower East Side, NY",10019-lower-east-side-ny,98,100,97
+"10463, Marble Hill, NY",10463-marble-hill-ny,94,92,43
+"11412, Springfield Gardens, NY",11412-springfield-gardens-ny,71,64,55
+"10305, Dongan Hills, NY",10305-dongan-hills-ny,69,69,54
+"11229, Midwood, NY",11229-midwood-ny,94,76,69
+"10014, Financial District, NY",10014-financial-district-ny,100,100,89
+"11103, Astoria, NY",11103-astoria-ny,94,96,67
+"11103, Astoria, NY",11103-astoria-ny,94,96,67
+"11694, Rockaway Beach, NY",11694-rockaway-beach-ny,83,82,75
+"11433, Jamaica, NY",11433-jamaica-ny,81,100,51
+"11365, Fresh Meadows, NY",11365-fresh-meadows-ny,81,69,61
+"11373, Maspeth, NY",11373-maspeth-ny,98,NA,78
+"10459, East Morrisania, NY",10459-east-morrisania-ny,90,100,77
+"10017, East Village, NY",10017-east-village-ny,100,100,80
+"10006, Battery Park City, NY",10006-battery-park-city-ny,99,100,83
+", Boerum Hill, NY",#NAME?,97,100,95
+"10474, Hunts Point, NY",10474-hunts-point-ny,58,NA,49
+"11377, Long Island City, NY",11377-long-island-city-ny,95,100,73
+"11419, Richmond Hill, NY",11419-richmond-hill-ny,91,88,51
+"11694, Neponsit, NY",11694-neponsit-ny,25,48,47
+"10128, Hell's Kitchen, NY",10128-hell-s-kitchen-ny,100,100,91
+", Sunnyside, NY", -sunnyside-ny,100,95,86
+"11203, Prospect-Lefferts Gardens, NY",11203-prospect-lefferts-gardens-ny,92,100,84
+"11368, Jackson Heights, NY",11368-jackson-heights-ny,56,84,58
+"10461, Pelham Bay, NY",10461-pelham-bay-ny,89,90,88
+"11223, Bensonhurst, NY",11223-bensonhurst-ny,92,98,70
+"10310, Randall Manor, NY",10310-randall-manor-ny,86,63,55
+", Ridgewood, NY",#NAME?,78,78,53
+"10029, Harlem, NY",10029-harlem-ny,99,100,88
+"10465, Throgs Neck, NY",10465-throgs-neck-ny,73,NA,50
+"10301, Todt Hill, NY",10301-todt-hill-ny,45,63,27
+"10308, Great Kills, NY",10308-great-kills-ny,80,60,46
+"10301, Silver Lake, NY",10301-silver-lake-ny,43,65,37
+"10472, Soundview, NY",10472-soundview-ny,93,89,53
+"11001, Bellerose, NY",11001-bellerose-ny,80,NA,51
+"10018, Theater District, NY",10018-theater-district-ny,97,100,92
+", Cobble Hill, NY",#NAME?,98,100,97
+"11217, Downtown Brooklyn, NY",11217-downtown-brooklyn-ny,99,100,93
+"11428, Queens Village, NY",11428-queens-village-ny,81,76,58
+"11413, Laurelton, NY",11413-laurelton-ny,73,67,55
+"11370, Jackson Heights, NY",11370-jackson-heights-ny,81,82,83
+"11214, Gravesend, NY",11214-gravesend-ny,98,82,58
+"10304, Grymes Hill, NY",10304-grymes-hill-ny,53,64,32
+"11423, Holliswood, NY",11423-holliswood-ny,54,74,41
+"10036, Midtown, NY",10036-midtown-ny,99,100,92
+", Flatiron District, NY",#NAME?,100,100,91
+", Prospect-Lefferts Gardens, NY",#NAME?,92,100,84
+"10469, Pelham Gardens, NY",10469-pelham-gardens-ny,91,80,59
+"10462, Parkchester, NY",10462-parkchester-ny,93,87,62
+"10462, Allerton, NY",10462-allerton-ny,93,NA,69
+", Prospect Heights, NY",#NAME?,99,100,94
+", Downtown Brooklyn, NY",#NAME?,96,100,90
+"11375, Rego Park, NY",11375-rego-park-ny,94,100,62
+"11435, Jamaica, NY",11435-jamaica-ny,97,100,57
+"11385, Maspeth, NY",11385-maspeth-ny,93,85,69
+"10018, Upper West Side, NY",10018-upper-west-side-ny,99,100,87
+"11228, Dyker Heights, NY",11228-dyker-heights-ny,90,79,53
+"11422, Rosedale, NY",11422-rosedale-ny,84,67,65
+"11201, Crown Heights, NY",11201-crown-heights-ny,97,100,89
+"11415, Richmond Hill, NY",11415-richmond-hill-ny,95,100,60
+"10036, West Village, NY",10036-west-village-ny,99,100,91
+"10282, Battery Park City, NY",10282-battery-park-city-ny,99,100,89
+"11101, Sunnyside, NY",11101-sunnyside-ny,93,100,82
+"11210, Borough Park, NY",11210-borough-park-ny,82,91,58
+"10013, Midtown, NY",10013-midtown-ny,97,100,90
+"10314, Castleton Corners, NY",10314-castleton-corners-ny,93,60,45
+"11203, Crown Heights, NY",11203-crown-heights-ny,88,77,53
+"11102, Long Island City, NY",11102-long-island-city-ny,91,77,87
+"10457, Fordham, NY",10457-fordham-ny,98,100,67
+"11691, Edgemere, NY",11691-edgemere-ny,78,74,60
+"11106, Ditmars Steinway, NY",11106-ditmars-steinway-ny,98,100,77
+"10301, New Brighton, NY",10301-new-brighton-ny,67,67,38
+", Murray Hill, NY",#NAME?,99,100,85
+"10469, Baychester, NY",10469-baychester-ny,91,80,59
+"11374, Forest Hills, NY",11374-forest-hills-ny,88,99,61
+", Jackson Heights, NY",#NAME?,99,96,65
+", Carroll Gardens, NY",#NAME?,96,93,92
+"10471, Riverdale, NY",10471-riverdale-ny,51,66,36
+"10451, Melrose, NY",10451-melrose-ny,94,100,70
+", Upper East Side, NY",#NAME?,99,100,85
+", Borough Park, NY",#NAME?,96,73,54
+"11222, Prospect-Lefferts Gardens, NY",11222-prospect-lefferts-gardens-ny,92,100,84
+"11379, Maspeth, NY",11379-maspeth-ny,80,67,58
+"10017, Upper West Side, NY",10017-upper-west-side-ny,99,100,87
+"11234, Bergen Beach, NY",11234-bergen-beach-ny,75,66,54
+"11366, Flushing, NY",11366-flushing-ny,84,71,64
+"11411, Cambria Heights, NY",11411-cambria-heights-ny,84,63,56
+"10472, Parkchester, NY",10472-parkchester-ny,93,87,62
+"10306, Richmondtown, NY",10306-richmondtown-ny,62,56,51
+"10129, East Harlem, NY",10129-east-harlem-ny,98,100,82
+"10002, Civic Center, NY",10002-civic-center-ny,84,71,64
+"11436, South Ozone Park, NY",11436-south-ozone-park-ny,78,62,54
+"10456, Claremont Village, NY",10456-claremont-village-ny,92,NA,74
+"11225, East Flatbush, NY",11225-east-flatbush-ny,94,100,81
+"10033, Harlem, NY",10033-harlem-ny,34,87,41
+"10451, Port Morris, NY",10451-port-morris-ny,96,100,61
+"10028, East Harlem, NY",10028-east-harlem-ny,100,100,85
+"10457, Tremont, NY",10457-tremont-ny,94,NA,71
+"10468, Fordham, NY",10468-fordham-ny,97,100,70
+", Flatbush, NY",#NAME?,92,100,85
+"11228, Bensonhurst, NY",11228-bensonhurst-ny,77,72,52
+", South Slope, NY",#NAME?,98,100,89
+"11219, Dyker Heights, NY",11219-dyker-heights-ny,93,88,62
+", Financial District, NY",#NAME?,100,100,83
+"10303, Howland Hook, NY",10303-howland-hook-ny,21,33,49
+"10013, Lower East Side, NY",10013-lower-east-side-ny,97,100,90
+"10461, Schuylerville, NY",10461-schuylerville-ny,83,83,80
+"11224, Coney Island, NY",11224-coney-island-ny,87,100,67
+"11429, Cambria Heights, NY",11429-cambria-heights-ny,79,70,59
+"11420, Jamaica, NY",11420-jamaica-ny,85,63,53
+"11433, St. Albans, NY",11433-st--albans-ny,81,100,51
+"10457, Claremont Village, NY",10457-claremont-village-ny,92,NA,74
+"10312, Prince's Bay, NY",10312-prince-s-bay-ny,61,60,52
+"11385, Ridgewood, NY",11385-ridgewood-ny,93,85,69
+"11385, Ridgewood, NY",11385-ridgewood-ny,93,85,69
+"10306, Midland Beach, NY",10306-midland-beach-ny,68,56,68
+"10305, South Beach, NY",10305-south-beach-ny,73,54,78
+"10003, Upper East Side, NY",10003-upper-east-side-ny,99,100,85
+"11435, Kew Gardens Hills, NY",11435-kew-gardens-hills-ny,82,88,67
+"11214, Bath Beach, NY",11214-bath-beach-ny,98,82,58
+"11218, Borough Park, NY",11218-borough-park-ny,93,94,76
+"10467, Woodlawn, NY",10467-woodlawn-ny,86,NA,56
+"11211, Park Slope, NY",11211-park-slope-ny,91,98,83
+"11429, St. Albans, NY",11429-st--albans-ny,79,70,59
+"11103, Long Island City, NY",11103-long-island-city-ny,94,96,67
+"11432, Jamaica Hills, NY",11432-jamaica-hills-ny,91,100,51
+"10003, Stuyvesant Town, NY",10003-stuyvesant-town-ny,98,100,96
+"10308, Eltingville, NY",10308-eltingville-ny,80,60,46
+"10011, Gramercy, NY",10011-gramercy-ny,100,100,85
+"11427, Kew Gardens Hills, NY",11427-kew-gardens-hills-ny,73,73,29
+", Kew Gardens Hills, NY",#NAME?,85,72,70
+"10306, Oakwood, NY",10306-oakwood-ny,82,68,59
+"11379, Elmhurst, NY",11379-elmhurst-ny,80,67,58
+"11236, Bergen Beach, NY",11236-bergen-beach-ny,75,66,54
+"11374, Canarsie, NY",11374-canarsie-ny,81,98,53
+"10473, Castle Hill, NY",10473-castle-hill-ny,71,64,74
+"11364, Bayside, NY",11364-bayside-ny,73,61,60
+"11103, Ditmars Steinway, NY",11103-ditmars-steinway-ny,94,96,67
+"10001, Theater District, NY",10001-theater-district-ny,97,100,92
+"11216, Clinton Hill, NY",11216-clinton-hill-ny,99,100,86
+"10030, East Harlem, NY",10030-east-harlem-ny,97,100,70
+", Inwood, NY",#NAME?,99,97,72
+"11379, Rego Park, NY",11379-rego-park-ny,80,67,58
+"10465, Schuylerville, NY",10465-schuylerville-ny,83,83,80
+"11201, Navy Yard, NY",11201-navy-yard-ny,47,74,89
+"10462, Morris Park, NY",10462-morris-park-ny,93,87,62
+"11377, Ridgewood, NY",11377-ridgewood-ny,98,95,71
+", Stuyvesant Town, NY",#NAME?,95,100,75
+", Tompkinsville, NY",#NAME?,78,70,33
+", Fresh Meadows, NY",#NAME?,81,69,61
+"10453, Fordham, NY",10453-fordham-ny,92,NA,72
+"11363, Douglaston, NY",11363-douglaston-ny,58,55,37
+"10312, Huguenot, NY",10312-huguenot-ny,57,56,40
+"10010, Greenwich Village, NY",10010-greenwich-village-ny,98,100,89
+"11228, Bath Beach, NY",11228-bath-beach-ny,77,72,52
+"10466, Edenwald, NY",10466-edenwald-ny,79,NA,58
+"10458, Belmont, NY",10458-belmont-ny,93,100,55
+", Ditmars Steinway, NY",#NAME?,99,81,75
+"10022, Upper West Side, NY",10022-upper-west-side-ny,100,100,84
+"10306, Grant City, NY",10306-grant-city-ny,63,71,66
+"11356, Astoria, NY",11356-astoria-ny,58,66,57
+"11234, East Flatbush, NY",11234-east-flatbush-ny,88,70,59
+"11207, Brownsville, NY",11207-brownsville-ny,91,100,76
+"10467, Wakefield, NY",10467-wakefield-ny,83,NA,76
+"10302, Port Richmond, NY",10302-port-richmond-ny,89,66,59
+", Gramercy, NY",#NAME?,97,100,71
+"10457, Mount Eden, NY",10457-mount-eden-ny,90,100,69
+"10314, Emerson Hill, NY",10314-emerson-hill-ny,32,66,15
+"11249, Greenpoint, NY",11249-greenpoint-ny,98,98,95
+"11377, Jackson Heights, NY",11377-jackson-heights-ny,95,100,73
+"10314, Westerleigh, NY",10314-westerleigh-ny,81,58,40
+", Bay Ridge, NY",#NAME?,94,85,68
+"91766, Kew Gardens Hills, NY",91766-kew-gardens-hills-ny,85,72,70
+"10459, Morrisania, NY",10459-morrisania-ny,90,100,77
+"10470, Wakefield, NY",10470-wakefield-ny,83,NA,39
+"10128, Civic Center, NY",10128-civic-center-ny,100,100,82
+"10460, East Morrisania, NY",10460-east-morrisania-ny,85,NA,79
+"11218, Flatlands, NY",11218-flatlands-ny,97,86,83
+"11421, Richmond Hill, NY",11421-richmond-hill-ny,92,75,44
+"10308, Bay Terrace, Staten Island, NY",10308-bay-terrace--staten-island-ny,80,60,46
+", Williamsbridge, NY",#NAME?,82,81,69
+"11362, Little Neck, NY",11362-little-neck-ny,85,57,39
+"10473, Unionport, NY",10473-unionport-ny,93,NA,61
+"10007, SoHo, NY",10007-soho-ny,100,100,88
+"10461, Westchester Square, NY",10461-westchester-square-ny,95,89,70
+"11362, Douglaston, NY",11362-douglaston-ny,84,59,59
+", Greenwich Village, NY",#NAME?,100,100,94
+"10471, Kingsbridge, NY",10471-kingsbridge-ny,95,NA,69
+"11434, South Ozone Park, NY",11434-south-ozone-park-ny,76,74,51
+"10305, Rosebank, NY",10305-rosebank-ny,86,64,59
+", Unionport, NY",#NAME?,93,NA,61
+"11234, Mill Basin, NY",11234-mill-basin-ny,65,68,54
+"11374, Elmhurst, NY",11374-elmhurst-ny,88,99,61
+"11413, Springfield Gardens, NY",11413-springfield-gardens-ny,76,67,51
+"11413, Springfield Gardens, NY",11413-springfield-gardens-ny,76,67,51
+"10013, Battery Park City, NY",10013-battery-park-city-ny,99,100,86
+"11423, Hollis, NY",11423-hollis-ny,78,85,25
+"10452, Morris Heights, NY",10452-morris-heights-ny,98,100,74
+"11426, Bellerose, NY",11426-bellerose-ny,80,NA,51
+"7093, Hell's Kitchen, NY",7093-hell-s-kitchen-ny,100,100,91
+"11201, Clinton Hill, NY",11201-clinton-hill-ny,95,100,98
+"11231, Bushwick, NY",11231-bushwick-ny,97,100,92
+"11373, Jackson Heights, NY",11373-jackson-heights-ny,98,NA,78
+"10451, Longwood, NY",10451-longwood-ny,93,100,77
+"10469, Pelham Bay, NY",10469-pelham-bay-ny,91,80,59
+", East Elmhurst, NY",#NAME?,90,71,79
+"10451, Morrisania, NY",10451-morrisania-ny,96,100,61
+"10462, Van Nest, NY",10462-van-nest-ny,79,95,73
+"11377, Astoria, NY",11377-astoria-ny,95,100,73
+"11418, Kew Gardens, NY",11418-kew-gardens-ny,89,84,53
+"11101, Greenpoint, NY",11101-greenpoint-ny,98,72,95
+"11377, East Elmhurst, NY",11377-east-elmhurst-ny,95,100,73
+"10025, Hell's Kitchen, NY",10025-hell-s-kitchen-ny,100,100,91
+"10005, Financial District, NY",10005-financial-district-ny,100,100,82
+"10005, Financial District, NY",10005-financial-district-ny,100,100,82
+", Gowanus, NY",#NAME?,95,100,91
+", Westerleigh, NY",#NAME?,81,58,40
+", Howard Beach, NY",#NAME?,77,66,75
+"10029, Upper East Side, NY",10029-upper-east-side-ny,99,100,88
+", Kingsbridge, NY",#NAME?,95,NA,69
+"10312, Arden Heights, NY",10312-arden-heights-ny,55,63,37
+", Flatlands, NY",#NAME?,81,87,60
+"10314, Bull's Head, NY",10314-bull-s-head-ny,77,59,71
+", Elmhurst, NY",#NAME?,98,NA,78
+"10466, Woodlawn, NY",10466-woodlawn-ny,86,93,56
+"11218, Bath Beach, NY",11218-bath-beach-ny,93,94,76
+"10456, Morrisania, NY",10456-morrisania-ny,91,91,77
+", Little Italy, NY",#NAME?,100,100,92
+"10016, Murray Hill, NY",10016-murray-hill-ny,99,100,85
+"10016, Murray Hill, NY",10016-murray-hill-ny,99,100,85
+"10026, Midtown, NY",10026-midtown-ny,98,100,84
+"10467, Olinville, NY",10467-olinville-ny,82,100,72
+", South Ozone Park, NY",#NAME?,85,63,53
+"10009, Bushwick, NY",10009-bushwick-ny,95,100,87
+"11223, Midwood, NY",11223-midwood-ny,92,98,70
+"10009, SoHo, NY",10009-soho-ny,99,100,91
+"11373, Woodside, NY",11373-woodside-ny,97,100,72
+"11207, Bedford-Stuyvesant, NY",11207-bedford-stuyvesant-ny,90,100,83
+"10301, Randall Manor, NY",10301-randall-manor-ny,53,54,53
+"11559, Far Rockaway, NY",11559-far-rockaway-ny,74,67,61
+"10018, Greenwich Village, NY",10018-greenwich-village-ny,100,100,91
+"10003, Chinatown, NY",10003-chinatown-ny,100,100,88
+"11417, Woodhaven, NY",11417-woodhaven-ny,87,81,51
+"11692, Rockaway Beach, NY",11692-rockaway-beach-ny,83,82,75
+"10468, University Heights, NY",10468-university-heights-ny,91,100,51
+", Concourse, NY",#NAME?,94,100,69
+"10270, Financial District, NY",10270-financial-district-ny,100,100,84
+"10309, Rossville, NY",10309-rossville-ny,50,43,42
+"10006, Midtown, NY",10006-midtown-ny,99,100,83
+"11432, Hollis, NY",11432-hollis-ny,86,97,48
+"10018, Chelsea, NY",10018-chelsea-ny,99,100,90
+"11694, Breezy Point, NY",11694-breezy-point-ny,15,48,47
+"10128, Sunset Park, NY",10128-sunset-park-ny,100,100,71
+"10314, Willowbrook, NY",10314-willowbrook-ny,46,54,41
+"10301, Grymes Hill, NY",10301-grymes-hill-ny,61,62,26
+"10306, New Dorp Beach, NY",10306-new-dorp-beach-ny,23,46,52
+", Springfield Gardens, NY",#NAME?,80,67,51
+", Mott Haven, NY",#NAME?,95,100,79
+"11235, Gravesend, NY",11235-gravesend-ny,85,77,62
+"11413, Cambria Heights, NY",11413-cambria-heights-ny,73,67,55
+"10004, Battery Park City, NY",10004-battery-park-city-ny,99,100,86
+"10004, Battery Park City, NY",10004-battery-park-city-ny,99,100,86
+"11412, Jamaica, NY",11412-jamaica-ny,80,65,54
+"11428, Hollis, NY",11428-hollis-ny,81,76,58
+"11230, Sheepshead Bay, NY",11230-sheepshead-bay-ny,96,90,77
+", East Morrisania, NY",#NAME?,94,91,77
+", Maspeth, NY",#NAME?,72,61,47
+"11372, Elmhurst, NY",11372-elmhurst-ny,95,98,84
+"11222, Long Island City, NY",11222-long-island-city-ny,99,76,96
+", Woodside, NY",#NAME?,93,100,64
+", Gravesend, NY",#NAME?,94,100,68
+"11420, Richmond Hill, NY",11420-richmond-hill-ny,94,75,60
+"10024, Upper West Side, NY",10024-upper-west-side-ny,100,100,86
+"10024, Upper West Side, NY",10024-upper-west-side-ny,100,100,86
+", Cypress Hills, NY",#NAME?,87,84,72
+"11221, Ridgewood, NY",11221-ridgewood-ny,96,92,71
+"10304, Todt Hill, NY",10304-todt-hill-ny,43,55,28
+", Kips Bay, NY",#NAME?,100,100,89
+"10013, Hell's Kitchen, NY",10013-hell-s-kitchen-ny,100,100,91
+"10014, West Village, NY",10014-west-village-ny,98,100,94
+"10014, West Village, NY",10014-west-village-ny,98,100,94
+"10306, Dongan Hills, NY",10306-dongan-hills-ny,69,69,54
+"11236, Brownsville, NY",11236-brownsville-ny,91,100,76
+"10007, Tribeca, NY",10007-tribeca-ny,99,100,90
+"10007, Tribeca, NY",10007-tribeca-ny,99,100,90
+"11373, Rego Park, NY",11373-rego-park-ny,88,99,61
+"10023, Upper West Side, NY",10023-upper-west-side-ny,100,100,87
+"10023, Upper West Side, NY",10023-upper-west-side-ny,100,100,87
+"10011, Chelsea, NY",10011-chelsea-ny,85,100,84
+"10011, Chelsea, NY",10011-chelsea-ny,85,100,84
+"10018, Midtown, NY",10018-midtown-ny,99,100,90
+"10018, Midtown, NY",10018-midtown-ny,99,100,90
+"10002, East Village, NY",10002-east-village-ny,97,100,94
+"10002, East Village, NY",10002-east-village-ny,97,100,94
+"10028, Upper East Side, NY",10028-upper-east-side-ny,100,100,85
+"10028, Upper East Side, NY",10028-upper-east-side-ny,100,100,85
+"10036, Hell's Kitchen, NY",10036-hell-s-kitchen-ny,99,100,92
+"10036, Hell's Kitchen, NY",10036-hell-s-kitchen-ny,99,100,92
+"10016, Kips Bay, NY",10016-kips-bay-ny,100,100,80
+"10016, Kips Bay, NY",10016-kips-bay-ny,100,100,80
+"11230, Borough Park, NY",11230-borough-park-ny,96,90,77
+"10075, Upper East Side, NY",10075-upper-east-side-ny,99,100,85
+"10075, Upper East Side, NY",10075-upper-east-side-ny,99,100,85
+"11101, Upper East Side, NY",11101-upper-east-side-ny,93,100,82
+"10457, Belmont, NY",10457-belmont-ny,94,NA,71
+"10460, West Farms, NY",10460-west-farms-ny,87,NA,60
+"11421, Ozone Park, NY",11421-ozone-park-ny,92,75,44
+"11413, St. Albans, NY",11413-st--albans-ny,73,67,55
+"11358, Fresh Meadows, NY",11358-fresh-meadows-ny,85,58,56
+"10025, East Elmhurst, NY",10025-east-elmhurst-ny,100,100,88
+"10003, Flatiron District, NY",10003-flatiron-district-ny,100,100,91
+"11378, Middle Village, NY",11378-middle-village-ny,85,63,52
+"10455, Melrose, NY",10455-melrose-ny,92,NA,73
+"10462, Westchester Square, NY",10462-westchester-square-ny,95,89,70
+"10301, Richmondtown, NY",10301-richmondtown-ny,44,41,38
+"11221, Cypress Hills, NY",11221-cypress-hills-ny,81,61,49
+"11233, Fort Greene, NY",11233-fort-greene-ny,91,100,65
+"10006, Williamsburg, NY",10006-williamsburg-ny,99,100,83
+"11360, Bayside, NY",11360-bayside-ny,75,58,47
+"10314, Todt Hill, NY",10314-todt-hill-ny,43,55,28
+"10018, Upper East Side, NY",10018-upper-east-side-ny,99,100,85
+"11213, East Flatbush, NY",11213-east-flatbush-ny,94,100,91
+"10003, Lower East Side, NY",10003-lower-east-side-ny,100,100,93
+"10309, Prince's Bay, NY",10309-prince-s-bay-ny,61,60,52
+"11228, Fort Hamilton, NY",11228-fort-hamilton-ny,44,64,63
+"10010, West Village, NY",10010-west-village-ny,98,100,89
+"11375, Elmhurst, NY",11375-elmhurst-ny,97,100,56
+"11427, Bellerose, NY",11427-bellerose-ny,73,73,29
+"10468, Norwood, NY",10468-norwood-ny,97,100,70
+"11366, Jamaica Estates, NY",11366-jamaica-estates-ny,85,69,57
+"11422, Cambria Heights, NY",11422-cambria-heights-ny,81,59,55
+"11365, Kew Gardens Hills, NY",11365-kew-gardens-hills-ny,68,66,57
+"11377, Kew Gardens, NY",11377-kew-gardens-ny,90,100,63
+"11416, Woodhaven, NY",11416-woodhaven-ny,92,85,56
+", Rockaway Beach, NY",#NAME?,84,82,75
+"11003, Cambria Heights, NY",11003-cambria-heights-ny,40,40,41
+"10462, Unionport, NY",10462-unionport-ny,93,87,62
+"11413, Rosedale, NY",11413-rosedale-ny,73,67,55
+"10705, North Riverdale, NY",10705-north-riverdale-ny,89,64,60
+"11581, Rosedale, NY",11581-rosedale-ny,43,46,45
+"10016, Chelsea, NY",10016-chelsea-ny,97,100,95
